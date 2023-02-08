@@ -1,3 +1,9 @@
+# Login-Page
+
+<h2>Penjelasan</h2>
+<p>Sebelum membuat website ini saya terlebih dahulu mendesain di figma untuk gambaran agar lebih mudah untuk dibuat. Setelah jadi difigma selanjutnya saya sclicing dan saya implementasikan dalam bentuk web design dengan menggunakan React dan tailwindcss.</p>
+<p>Website ini hanya sekedar login page tanpa ada action apapun, akan tetapi website ini sudah menggunakan responsivitas untuk berbagai macam device.</p>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,4 +74,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# Login-Page
